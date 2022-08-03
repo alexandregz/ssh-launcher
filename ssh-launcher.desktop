@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SSH-launcher
+Exec=/home/aespinosa/bin/ssh-launcher.bash
+Icon=/home/aespinosa/ssh-launcher.png
+Type=Application
+Categories=Development;
+Comment=Lanza SSH contra o que tenhamos copia no clipboard
+Comment[gl]=Lanza SSH contra o que tenhamos copia no clipboard
+Comment[es]=Lanza SSH contra o que tenhamos copia no clipboard
